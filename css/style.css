@@ -219,6 +219,7 @@ h6 {
     margin: 0;
     padding: 0;
     list-style: none;
+    text-decoration: none;
 }
 
 .nav-menu>ul>li {
@@ -526,7 +527,7 @@ Facts
     display: block;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
-    color: #6e0318;
+    color: #000000;
 }
 
 .skills .progress .skill .val {
@@ -542,7 +543,8 @@ Facts
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #640101;
+    border-radius: 15px;
+    background-color:#2B2730;
 }
 
 
